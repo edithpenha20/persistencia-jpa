@@ -4,6 +4,7 @@
 
 Modelagem de um banco de dados para cadastro de produtos para trabalhar conceitos de JPA com Hibernate.
 - Java 11;
+- Maven;
 - Hibernate;
 - H2.
 
